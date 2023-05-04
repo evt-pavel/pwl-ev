@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pawel Ewtushenko.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python, Flask, SQLAlchemy
+- 👀 I’m interested in managemet and programming
+- 🌱 I’m currently learning Python, Flask, SQLAlchemy, SQL, Django, English
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pwl93.e@gmail.com
 
